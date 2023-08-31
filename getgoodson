@@ -1,0 +1,9 @@
+-- Stop being a skid nigga
+
+if not getgenv().loadeddd then
+    print("LOADED .gg/xdhcshop")
+    getgenv().loadeddd = true
+loadstring(game:HttpGet('https://raw.githubusercontent.com/gerisxx/vendetamales/main/atmfarm'))()
+else
+    print(".")
+end
